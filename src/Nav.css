@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color:  whitesmoke;
+    position: fixed;   
+    width: 100vw;
+    z-index: 1;
+}
+.navlist{
+    display:flex;
+    justify-content: space-between;
+    gap: 60px;
+    list-style: none;
+}
+#fir,#sec{
+    position: relative;
+    top: 15px;
+    list-style: none;
+}
+#fir img{
+    height: 50px;
+    /* margin-bottom: 20px; */
+    position: relative;
+    top: -12px;
+}
+.non{
+    text-decoration: none;
+}

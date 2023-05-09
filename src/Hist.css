@@ -1,0 +1,36 @@
+#his p{
+    text-align: center;
+    margin-top: 70px;
+}
+#his h1{
+    margin-top: 100px;
+}
+.ph{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 200px;
+    height: 90vh;
+    width: 70vw;
+    background-color: whitesmoke;
+    /* opacity: 0.7; */
+}
+.ph img{
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 140px;
+    
+}
+.ph p{
+    height: 400px;
+    width: 600px;
+    /* background-color: red; */
+    position: relative;
+    top: 150px;
+    left: 40px;
+     text-align: center;
+}
+.na{
+    margin-left: -700px;
+    margin-top: -200px;
+}

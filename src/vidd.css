@@ -1,0 +1,9 @@
+video{
+    /* position: relative; */
+    background-size: cover;
+    margin-left: -185px; 
+    
+      width: 120vw; 
+     height:100vh;
+     background-color: black; 
+}

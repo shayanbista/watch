@@ -1,0 +1,154 @@
+.main{
+    height: 100vh;
+    margin-top: 80px;
+    font-family: cursive;
+    /* background-color: black; */
+}
+.dividing{
+    display: flex;
+
+}
+#left img{
+    background-color: red;
+    height: 700px;
+    width: 90vh;
+}
+#right {
+  
+    display: flex;
+
+}
+.foli{
+    height: 400px;
+    width: 400px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.coli {
+    height: 300px;
+    width: 350px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+#lefti {
+
+    display: flex;
+    margin-top: -10px;
+}
+.ring,.ping{
+    text-align: center;
+}
+.foli button{
+    width: 100px;
+    height: 40px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 100px;
+   
+}
+.ping{
+    position: relative;
+    top: -104px;
+   
+}
+.ring{
+     position: relative; 
+     top: -90px; 
+    font-size: 20px;
+}
+.foli img{
+    height: 140px;
+    width: 80px;
+    margin: auto;
+    position: relative;
+    top: -30px;
+}
+.coli img {
+    height: 140px;
+    width: 80px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.ringi {
+    position: relative;
+    top: -23px;
+    font-size: 20px;
+}
+.pingi {
+       text-align: center;
+       /* margin-top: 20px; */
+       position: relative;
+       top: -35px;
+}
+.coli button{
+width: 100px;
+    height: 100px;
+    /* margin: auto; */
+    margin-top: 120px;
+    margin-left: 80px;
+    position: relative;
+    bottom: 150px;
+    padding: 12px;
+}
+.colii {
+    height: 300px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.colii button {
+    width: 100px;
+    height: 100px;
+    /* margin: auto; */
+    margin-top: 120px;
+    margin-left: 80px;
+    position: relative;
+    bottom: 150px;
+    padding: 12px;
+}
+.colii img {
+    height: 140px;
+    width: 80px;
+    margin: auto;
+    margin-top: 150px;
+}
+#left button{
+   width: 150px;
+   height: 50px;
+   margin-left: 200px;
+}
+#left button:hover {
+background-color: rgb(131, 113, 15);
+}
+#luce{
+    height: 120px;
+    width: 70px;
+    position: relative;
+    top: 10px;
+}
+#cap{
+    width: 150px;
+    height: 140px;
+}
+.foli button{
+    margin-left: 150px;
+}
+.colii button{
+    margin-left: 120px;
+}
+.coli  button{
+    margin-left: 120px;
+}
+.colii button:hover,.coli button:hover,.foli button:hover{
+background-color: rgb(131, 113, 15);
+}

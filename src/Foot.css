@@ -1,0 +1,21 @@
+#foot{
+    cursor: pointer;
+    background-color: black;
+    height: 80vh;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#foot li{
+    color: white;
+    list-style: none;
+    margin-top: 40px;
+}
+#col li {
+    color: white;
+    margin-top: 30px;
+}
+#col li:hover{
+    color: goldenrod;
+}

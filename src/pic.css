@@ -1,0 +1,38 @@
+.wrest {
+    position: relative;
+}
+
+.wrest img {
+    width: 100vw;
+    height: 100vh;
+    z-index: 3;
+    flex: 1,
+
+}
+
+#llll {
+    flex: 1;
+    background-color: black;
+    height: 400px;
+    width: 500px;
+    /* z-index: 5; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 100px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    opacity: 0.5;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    transform: translateX(-120%);
+}
+
+#llll button {
+    width: 200px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 25px;
+}

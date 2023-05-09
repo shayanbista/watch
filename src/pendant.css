@@ -1,0 +1,25 @@
+#whole{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#NENE1{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    transform: translateX(-320%);
+    
+}
+#NENE2 {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+   transform: translateX(-250%);
+}
+#NENE3 {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    transform: translateX(-370%);
+    
+}
