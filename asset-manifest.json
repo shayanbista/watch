@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/watch/static/css/main.9169ad28.css",
+    "main.js": "/watch/static/js/main.11666ede.js",
+    "static/js/787.78dd129a.chunk.js": "/watch/static/js/787.78dd129a.chunk.js",
+    "static/media/Classic.mp4": "/watch/static/media/Classic.c02f60aa263cd573f617.mp4",
+    "static/media/logwatch.png": "/watch/static/media/logwatch.8d4c75db894bce6bee8f.png",
+    "static/media/men.PNG": "/watch/static/media/men.09f4e8f3952adacc1170.PNG",
+    "static/media/pic.PNG": "/watch/static/media/pic.e6b2591398d0eb90e415.PNG",
+    "static/media/pendant.PNG": "/watch/static/media/pendant.2edf30ef4f0043424af4.PNG",
+    "static/media/Bracelet.PNG": "/watch/static/media/Bracelet.762c915661f416dcd8ce.PNG",
+    "static/media/pocket.PNG": "/watch/static/media/pocket.64286a1212cc887e4f12.PNG",
+    "static/media/Sir.png": "/watch/static/media/Sir.3cb179a1614750c76607.png",
+    "static/media/gadee.jpg": "/watch/static/media/gadee.91632862b04f6401203c.jpg",
+    "static/media/Kengiston.png": "/watch/static/media/Kengiston.b1538aeab2a2bfb5aef6.png",
+    "static/media/capture.png": "/watch/static/media/capture.a93565976125754f9268.png",
+    "static/media/Carter.png": "/watch/static/media/Carter.4899e49639d7721a62fa.png",
+    "static/media/Emerson.png": "/watch/static/media/Emerson.08fed1f86cec24f33d01.png",
+    "static/media/Harper.PNG": "/watch/static/media/Harper.997a4f3ac14849b0abc0.PNG",
+    "static/media/Serena.png": "/watch/static/media/Serena.639d8f6c5ac2e6bb5f9b.png",
+    "static/media/lucille.PNG": "/watch/static/media/lucille.448ed3aaaa6956965be5.PNG",
+    "static/media/Allesia.PNG": "/watch/static/media/Allesia.c0f3db9c9a6545222c57.PNG",
+    "static/media/Denver.png": "/watch/static/media/Denver.92dc92e6b4c3180ff511.png",
+    "static/media/Bailey.png": "/watch/static/media/Bailey.7fdfe9afb3380d5e38b9.png",
+    "static/media/Blakely diamond.PNG": "/watch/static/media/Blakely diamond.56f03dad5593376360fc.PNG",
+    "static/media/classic.png": "/watch/static/media/classic.29fc61e1a75bbd8e91c5.png",
+    "static/media/Carson.png": "/watch/static/media/Carson.5a9b407077a4d7843392.png",
+    "index.html": "/watch/index.html",
+    "main.9169ad28.css.map": "/watch/static/css/main.9169ad28.css.map",
+    "main.11666ede.js.map": "/watch/static/js/main.11666ede.js.map",
+    "787.78dd129a.chunk.js.map": "/watch/static/js/787.78dd129a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9169ad28.css",
+    "static/js/main.11666ede.js"
+  ]
+}
